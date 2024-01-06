@@ -18,7 +18,7 @@ body {
 #envelope > * {
   position: absolute;
   top: 0;
-  left: -20px;
+  left: 0;
   display: none;
 }
 
@@ -134,7 +134,7 @@ a {
   color: white;
   cursor: pointer;
   top: calc(200px - 25px);
-  left: calc(130px - 25px);
+  left: calc(150px - 25px);
   transition: transform 1s, background-color 1s, color 1s;
 }
 
