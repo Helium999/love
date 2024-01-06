@@ -10,7 +10,7 @@ body {
 #envelope {
   position: absolute;
   top: calc(50vh - 200px);
-  left: calc(53vw - 150px);
+  left: calc(50vw - 150px);
   width: 250px;
   height: 300px;
 }
