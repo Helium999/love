@@ -76,7 +76,7 @@ p {
   line-height: 20px;
 }
 #letter img {
-  background-size: cover;
+  background-size: contain;
 }
 #letter.animate {
   animation: makebig 2s forwards;
